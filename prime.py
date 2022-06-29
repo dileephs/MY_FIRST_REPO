@@ -12,4 +12,4 @@ for i in range(2,num):
 if flag:
 	print("Yes It's Prime number")
 else:
-	print("It's not a prime numner")
+	print("No It's not a Prime number")
